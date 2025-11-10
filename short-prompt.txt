@@ -1,0 +1,1 @@
+Classify the homeowner request: "{query}". Respond with one word: electrical, plumbing, or roofing.

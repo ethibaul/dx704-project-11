@@ -1,0 +1,6 @@
+query	target_category	predicted_category
+Cabinet over 2nd floor bath is damp but all visible pipes are dry.	roofing	plumbing
+Ceiling damp above hallway, only sometimes, bathroom nearby is dry.	roofing	plumbing
+Toilet is fine but ceiling above it drips after long hot showers.	roofing	plumbing
+Basement smells musty after outage; no visible leaks.	electrical	plumbing
+My electric bill doubled after fixing a pipe leak last month.	plumbing	electrical
